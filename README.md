@@ -1,6 +1,6 @@
 # Descripción
 ## Manejo de Git
-** Demostrar dominio de Git **
+**Demostrar dominio de Git**
 1. Crear repositorio Local
 2. Agregar archivos (código fuente o cualquier archivo de texto, txt, csv)
 3. Crear repositorio remoto (Github) (en la pagina) - Si conocemos el CLI de Github podemos hacer también así.
